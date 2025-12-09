@@ -1,4 +1,4 @@
-## # 👋 Hello! I'm Monica - Aspiring Software Engineer
+# 👋 Hello! I'm Monica - Aspiring Software Engineer
 
 I am a final-year Computer Engineering student specializing in **Software Engineering**, set to graduate this June. My academic journey has provided me with a strong foundational knowledge in computer science principles, complemented by intense project-based learning.
 
